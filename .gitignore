@@ -1,0 +1,8 @@
+# Binaries for programs and plugins
+main
+auto_fmt
+*.exe
+*.exe~
+*.so
+*.dylib
+*.dll
